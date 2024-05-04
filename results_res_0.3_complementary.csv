@@ -1,0 +1,2 @@
+experiment,total_outliers_frac_seed,num_outliers,overlap,outliers_max_dist_mm,outliers_dist_mm,start_day,end_day
+13578,1.05,5.0,0.7404808796980141,1.6970560550689697,[0.42426488 1.20000029 1.03923059 1.23693204 1.69705606],0,62
